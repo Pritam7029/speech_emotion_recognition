@@ -65,18 +65,7 @@ Speech Emotion Recognition (SER) is a challenging task where the goal is to accu
 - **Confusion Matrix**: Visualizes the performance across different emotion classes.
 - **Loss & Accuracy Curves**: Provides insights into the training process.
 
-## Contributing
+## Contribution
 This is a group project made with the contribution of Mandir das and Pritam Chakraborty
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- The datasets used in this project are credited to their respective creators.
-- Special thanks to the developers of the libraries used in this project.
-
----
-
-Replace `"your-username"` with your actual GitHub username before using this in your repository.
