@@ -14,24 +14,9 @@ Speech Emotion Recognition (SER) is a challenging task where the goal is to accu
 - **Model Training**: Includes advanced training techniques with callbacks such as `ModelCheckpoint` and `ReduceLROnPlateau` to optimize model performance.
 - **Performance Evaluation**: Provides a detailed evaluation using confusion matrices and classification reports to assess model accuracy.
 
-## Installation
 
-1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/your-username/speech-emotion-recognition.git
-   cd speech-emotion-recognition
-   ```
-
-2. **Install dependencies:**
-
-   Ensure you have Python 3.7+ and use pip to install the required packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Download the datasets:**
+ **Download the datasets:**
 
    Download the RAVDESS, CREMA-D, TESS, and SAVEE datasets, and place them in the appropriate directories as specified in the code.
 
